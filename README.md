@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vobludalib/Vobludalib/refs/heads/main/vlcsnap-2023-05-10-10h28m44s618-1536x864.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vobludalib/Vobludalib/refs/heads/main/vlcsnap-2023-05-10-10h28m49s112-1536x864.webp">
+  <img alt="Bing chilling" src="https://raw.githubusercontent.com/Vobludalib/Vobludalib/refs/heads/main/vlcsnap-2023-05-10-10h28m44s618-1536x864.webp">
+</picture>
+
 <!--
 **Vobludalib/Vobludalib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
