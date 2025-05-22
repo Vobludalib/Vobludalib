@@ -20,6 +20,7 @@
 
 ## Projects
 <ul>
+  <li>🎷 - <a href="https://github.com/Vobludalib/SaxophoneDifficultyModel">*Bachelor's thesis*: Difficulty model of saxophone music, with Musescore plugin implementation</a></li>
   <li>🎶 - <a href="https://github.com/Vobludalib/MusescoreIntegration">Automatic generation of Musescore plugins</a></li>
   <li>🎮 - <a href="https://github.com/Vobludalib/TournamentServerCsharp">Simple tournament management backend</a></li>
   <li>❌ - <a href="https://github.com/Vobludalib/UltimateTicTacToeMinimax">Simple Ultimate Tic Tac Toe minimax player with GUI</a></li>
