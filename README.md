@@ -13,15 +13,18 @@
   <li>I am currently a 3rd year Computer Science student at Charles University in Prague.</li>
   <li>I specialise in Music-related programming and (more generally) AI.</li>
   <li>I arrange and compose jazz music - <a href="https://www.simonlibricky.com">see my work 🎷</a></li>
+  <li>Part of the <a href="https://ufal.mff.cuni.cz/pmcg">Prague Music Computing Group</a></li>
 </ul>
 
 ## Tech skills
-![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534) ![.NET](https://camo.githubusercontent.com/f4c52b575a890c7e67c6541271fc5733506088d19c77ffde6bab3e18e7948536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465) <sub><sub>and more to varying degrees</sub></sub>
+![Skills](https://skillicons.dev/icons?i=python,cs,cpp&theme=dark)
+<sub><sub>and more to varying degrees</sub></sub>
 
 ## Projects
 <ul>
-  <li>🎷 - <a href="https://github.com/Vobludalib/SaxophoneDifficultyModel">*Bachelor's thesis*: Difficulty model of saxophone music, with Musescore plugin implementation</a></li>
-  <li>🎶 - <a href="https://github.com/Vobludalib/MusescoreIntegration">Automatic generation of Musescore plugins</a></li>
-  <li>🎮 - <a href="https://github.com/Vobludalib/TournamentServerCsharp">Simple tournament management backend</a></li>
-  <li>❌ - <a href="https://github.com/Vobludalib/UltimateTicTacToeMinimax">Simple Ultimate Tic Tac Toe minimax player with GUI</a></li>
+  <li>🎷 - <a href="https://github.com/Vobludalib/SaxophoneDifficultyModel">*Bachelor's thesis*: Difficulty model of saxophone music, with Musescore plugin implementation</a> - Python</li>
+  <li>🎼 - <a href="https://github.com/Vobludalib/Cpp-Simple-Scales">Simple library and application for practising musical scale recognition</a> - C++</li>
+  <li>🎶 - <a href="https://github.com/Vobludalib/MusescoreIntegration">Automatic generation of Musescore plugins</a> - Python, QML</li>
+  <li>🎮 - <a href="https://github.com/Vobludalib/TournamentServerCsharp">Simple tournament management backend</a> - C#</li>
+  <li>❌ - <a href="https://github.com/Vobludalib/UltimateTicTacToeMinimax">Simple Ultimate Tic Tac Toe minimax player with GUI</a> - Python</li>
 </ul>
