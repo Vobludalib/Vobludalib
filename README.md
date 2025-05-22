@@ -17,7 +17,7 @@
 </ul>
 
 ## Tech skills
-![Skills](https://skillicons.dev/icons?i=python,cs,cpp&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,cs,cpp&theme=light)
 <sub><sub>and more to varying degrees</sub></sub>
 
 ## Projects
