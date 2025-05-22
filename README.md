@@ -26,5 +26,5 @@
   <li>🎼 - <a href="https://github.com/Vobludalib/Cpp-Simple-Scales">Simple library and application for practising musical scale recognition</a> - C++</li>
   <li>🎶 - <a href="https://github.com/Vobludalib/MusescoreIntegration">Automatic generation of Musescore plugins</a> - Python, QML</li>
   <li>🎮 - <a href="https://github.com/Vobludalib/TournamentServerCsharp">Simple tournament management backend</a> - C#</li>
-  <li>❌ - <a href="https://github.com/Vobludalib/UltimateTicTacToeMinimax">Simple Ultimate Tic Tac Toe minimax player with GUI</a> - Python</li>
+  <li>❌ - <a href="https://github.com/Vobludalib/UltimateTicTacToeMinimax">Simple Ultimate Tic Tac Toe minimax player with GUI</a> - C#</li>
 </ul>
